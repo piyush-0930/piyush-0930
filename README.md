@@ -7,7 +7,7 @@ Web Developer And Designer
 I've been learning to code for 2 years. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](https://piyush-aggarwal-profiles.netlify.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://piyush-aggarwal-profile.netlify.app/)
 * ✉️  You can contact me at [aggarwalpiyush630@gmail.com](mailto:aggarwalpiyush630@gmail.com)
 * 🧠  I'm learning HTML, CSS And JAVASCRIPT.
 * 🤝  I'm open to collaborating on Interesting Projects
