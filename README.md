@@ -9,7 +9,7 @@ I'm a Computer Science Engineering (CSE) student at Chandigarh University with a
 * 🌍  I'm based in Chandigarh, India
 * 🖥️  See my portfolio at [MyPortfolio](http://piyush-aggarwal.vercel.app)
 * ✉️  You can contact me at [aggarwalpiyush630@gmail.com](mailto:aggarwalpiyush630@gmail.com)
-* 🚀  I'm currently working on [Tomato Foods 🍕 – A full-stack food delivery platform.](http://tomato-foods.onrender.com)
+* 🚀  I'm currently Building [VeloShift Co.](http://veloshift-digital.vercel.app)
 * 🧠  I'm learning React Native, Fintech Integrations, Web Security
 * 🤝  I'm open to collaborating on Web Development, Fintech Apps, Open-Source
 * ⚡  Fun Fact: I love exploring new tech and watching cricket!
