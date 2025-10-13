@@ -11,7 +11,7 @@ I'm a Computer Science Engineering (CSE) student at Chandigarh University with a
 * ✉️  You can contact me at [aggarwalpiyush630@gmail.com](mailto:aggarwalpiyush630@gmail.com)
 * 🚀  I'm currently working on [VeloShift Co.](http://veloshift-digital.vercel.app)
 * 🧠  I'm currently learning Artificial Intelligence, Machine Learning to build smart solutions.
-* 👥  I'm looking to collaborate on Web Development, Fintech Apps, Open-Source
+* 👥  I'm looking to collaborate on Web Development, Fintech Apps, Open-Source Projects.
 * 💬  Ask me about I turn coffee into code and bugs into features.
 
 <p align="left">
