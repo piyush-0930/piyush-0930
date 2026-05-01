@@ -1,23 +1,22 @@
-# Hi, my name is Piyush Aggarwal  
+# 👋 Hi, my name is Piyush Aggarwal  
 ### Full Stack Developer  
 
-Based in Chandigarh, India  
-Portfolio: [piyushaggarwal.in](https://piyush-aggarwal.vercel.app)  
-
-Currently building VeloShift Co.  
-Learning Artificial Intelligence and Machine Learning to build scalable, production-ready systems  
-Open to collaborating on full-stack applications, fintech products, and impactful open-source projects  
-I build, break, and optimize systems into scalable products  
+🌍 Based in Chandigarh, India  
+🖥️ Portfolio: [piyushaggarwal.in](https://piyush-aggarwal.vercel.app)  
+🚀 Currently building VeloShift Co.  
+🧠 Learning Artificial Intelligence and Machine Learning to build scalable, production-ready systems  
+🤝 Open to collaborating on full-stack applications, fintech products, and open-source  
+💡 I build, break, and optimize systems into scalable products  
 
 ---
 
-## Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushaggarwal30)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aggarwalpiyush630@gmail.com)
 
 ---
 
-## Tech Stack:
+## 💻 Tech Stack:
 
 ### Core
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -54,12 +53,12 @@ I build, break, and optimize systems into scalable products
 
 ---
 
-## GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=piyush-0930&theme=dark&hide_border=false)<br/>
 ![](https://streak-stats.demolab.com/?user=piyush-0930&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyush-0930&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=piyush-0930&theme=radical&no-frame=false&no-bg=true&margin-w=4)
