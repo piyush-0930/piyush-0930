@@ -1,25 +1,17 @@
-<div align="center">
-
-<h1>Hi 👋, I'm Piyush Aggarwal</h1>
-<h3>Full Stack Developer</h3>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+scalable+web+applications;MERN+Stack+Developer;Exploring+AI+%26+Machine+Learning" />
-
-</div>
-
----
+# 👋 Hi, my name is Piyush Aggarwal  
+### Full Stack Developer  
 
 🌍 Based in Chandigarh, India  
 🖥️ Portfolio: [piyushaggarwal.in](https://piyush-aggarwal.vercel.app)  
 🚀 Currently building VeloShift Co.  
-🧠 Learning Artificial Intelligence and Machine Learning  
-🤝 Open to collaborating on full-stack, fintech, and open-source projects  
+🧠 Learning Artificial Intelligence and Machine Learning to build scalable, production-ready systems  
+🤝 Open to collaborating on full-stack applications, fintech products, and open-source  
 💡 I build, break, and optimize systems into scalable products  
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushaggarwal30)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushaggarwal30)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aggarwalpiyush630@gmail.com)
 
 ---
@@ -62,19 +54,11 @@
 ---
 
 ## 📊 GitHub Stats:
-<div align="center">
-
-![](https://github-readme-stats.shion.dev/api?username=piyush-0930&theme=tokyonight&hide_border=true)
-![](https://streak-stats.demolab.com/?user=piyush-0930&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyush-0930&theme=tokyonight&hide_border=true&layout=compact)
-
-</div>
+![](https://github-readme-stats.shion.dev/api?username=piyush-0930&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=piyush-0930&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyush-0930&theme=dark&hide_border=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=piyush-0930&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-</div>
+![](https://github-profile-trophy.vercel.app/?username=piyush-0930&theme=radical&no-frame=false&no-bg=true&margin-w=4)
