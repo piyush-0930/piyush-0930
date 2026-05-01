@@ -1,5 +1,5 @@
-# 👋 Hi, my name is Piyush Aggarwal  
-## 🚀 Full Stack Developer  
+# Piyush Aggarwal  
+## Full Stack Developer  
 
 🌍 Based in Chandigarh, India  
 🖥️ Portfolio: [piyushaggarwal.in](https://piyush-aggarwal.vercel.app)  
