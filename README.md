@@ -15,7 +15,6 @@
 ![Projects](https://img.shields.io/badge/Projects-10%2B%20Shipped-blue?style=for-the-badge&logo=vercel)
 ![Hackathons](https://img.shields.io/badge/Hackathons-5x%20Participant-orange?style=for-the-badge&logo=hackthebox)
 ![Wins](https://img.shields.io/badge/Wins-2x%20Winner-green?style=for-the-badge&logo=trophy)
-![Experience](https://img.shields.io/badge/Focus-Full%20Stack%20Development-black?style=for-the-badge&logo=code)
 
 </div>
 
