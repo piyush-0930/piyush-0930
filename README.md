@@ -3,7 +3,6 @@
 
 🌍 Based in Chandigarh, India  
 🖥️ Portfolio: [piyushaggarwal.in](https://piyush-aggarwal.vercel.app)  
-🚀 Building VeloShift Co. — a scalable tech platform (early-stage)  
 📈 Delivered real-world solutions across 10+ client projects  
 🧠 Exploring Artificial Intelligence and Machine Learning to integrate intelligent, scalable systems  
 🤝 Open to collaborating on full-stack applications, fintech products, and open-source  
