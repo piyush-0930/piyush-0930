@@ -6,7 +6,7 @@
 📈 Delivered real-world solutions across 10+ client projects  
 🧠 Exploring Artificial Intelligence and Machine Learning to integrate intelligent, scalable systems  
 🤝 Open to collaborating on full-stack applications, fintech products, and open-source  
-💡 I design, build, and scale production-ready systems  
+⚡I design, build, and scale production-ready systems  
 
 ---
 
