@@ -8,6 +8,10 @@
 🤝 Open to collaborating on full-stack applications, fintech products, and open-source  
 💡 I build, break, and optimize systems into scalable products  
 
+⚡ 10+ client projects shipped  
+⚡ 5x hackathon participant, 2x winner  
+⚡ Experience building full-stack systems end-to-end (frontend, backend, deployment)  
+
 ---
 
 ## 🌐 Socials:
