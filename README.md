@@ -12,9 +12,11 @@
 
 <div align="center">
 
-![Projects](https://img.shields.io/badge/Projects-10%2B%20Shipped-blue?style=for-the-badge&logo=vercel)
-![Hackathons](https://img.shields.io/badge/Hackathons-5x%20Participant-orange?style=for-the-badge&logo=hackthebox)
-![Wins](https://img.shields.io/badge/Wins-2x%20Winner-green?style=for-the-badge&logo=trophy)
+<img src="https://img.shields.io/badge/🚀%20Projects-10%2B%20Shipped-0A66C2?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🏆%20Wins-2x%20Hackathon%20Winner-16A34A?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/⚡%20Hackathons-5x%20Participant-F59E0B?style=for-the-badge" />
 
 </div>
 
