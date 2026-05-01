@@ -1,12 +1,13 @@
 # 👋 Hi, my name is Piyush Aggarwal  
-### Full Stack Developer  
+## 🚀 Full Stack Developer  
 
 🌍 Based in Chandigarh, India  
 🖥️ Portfolio: [piyushaggarwal.in](https://piyush-aggarwal.vercel.app)  
-🚀 Currently building VeloShift Co.  
-🧠 Learning Artificial Intelligence and Machine Learning to build scalable, production-ready systems  
+🚀 Building VeloShift Co. — a scalable tech platform (early-stage)  
+📈 Delivered real-world solutions across 10+ client projects  
+🧠 Exploring Artificial Intelligence and Machine Learning to integrate intelligent, scalable systems  
 🤝 Open to collaborating on full-stack applications, fintech products, and open-source  
-💡 I build, break, and optimize systems into scalable products  
+💡 I design, build, and scale production-ready systems  
 
 ---
 
