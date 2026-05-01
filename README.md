@@ -1,17 +1,23 @@
-👋 Piyush Aggarwal | Full Stack Developer<br>
-🌍 I'm based in Chandigarh, India<br>
-🖥️ See my portfolio at piyushaggarwal.in<br>
-✉️ You can contact me at aggarwalpiyush630@gmail.com<br>
-🚀 I'm currently working on VeloShift Co.<br>
-🧠 I'm currently learning Artificial Intelligence and Machine Learning to build scalable, intelligent, and production-ready applications.<br>
-👥 I'm looking to collaborate on Full-stack web applications, fintech solutions, and impactful open-source projects that solve real-world problems.<br>
-💬 Ask me about I build, break, and optimize—turning ideas into scalable products and challenges into learning opportunities.
+# 👋 Piyush Aggarwal  
+### 💻 Full Stack Developer  
+
+🌍 I'm based in Chandigarh, India  
+🖥️ See my portfolio at piyushaggarwal.in  
+✉️ You can contact me at aggarwalpiyush630@gmail.com  
+🚀 I'm currently working on VeloShift Co.  
+🧠 I'm currently learning Artificial Intelligence and Machine Learning to build scalable, intelligent, and production-ready applications.  
+👥 I'm looking to collaborate on Full-stack web applications, fintech solutions, and impactful open-source projects that solve real-world problems.  
+💬 Ask me about I build, break, and optimize—turning ideas into scalable products and challenges into learning opportunities.  
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushaggarwal30) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushaggarwal30)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aggarwalpiyush630@gmail.com)
 
-# 💻 Tech Stack:
+---
+
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,12 +36,16 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-# 📊 GitHub Stats:
+---
+
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=piyush-0930&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=piyush-0930&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=piyush-0930&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=piyush-0930&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM -->
