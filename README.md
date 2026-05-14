@@ -4,175 +4,40 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=3000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Digital+Experiences;Full+Stack+Developer+from+India;AI+%2B+FinTech+Explorer;Crafting+Modern+Web+Architectures" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=3000&color=00D9FF&center=true&vCenter=true&width=1000&lines=IIIT+Delhi+|+IIT+Mandi+Hack+Finalist;Technology+%26+Management+Associate;Build+•+Scale+•+Innovate" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PROJECTS-10%2B-00D9FF?style=for-the-badge&labelColor=0B1120" />
-<img src="https://img.shields.io/badge/HACKATHONS-5%2B-7C3AED?style=for-the-badge&labelColor=0B1120" />
-<img src="https://img.shields.io/badge/WINS-2x-22C55E?style=for-the-badge&labelColor=0B1120" />
+<p align="center">
+  <img src="https://img.shields.io/badge/CLIENT_PROJECTS-10%2B-00D9FF?style=for-the-badge&labelColor=0B1120" />
+  <img src="https://img.shields.io/badge/HACKATHON-2x_WINNER-7C3AED?style=for-the-badge&labelColor=0B1120" />
+  <img src="https://img.shields.io/badge/SECRETARY_GENERAL-IT_%26_TECH-22C55E?style=for-the-badge&labelColor=0B1120" />
+</p>
 
 </div>
 
 ---
-## ⚡ About Me
+<div align="center">
 
-```bash
-> name: Piyush Aggarwal
-> role: Full Stack Developer
-> specialization: MERN Stack Development
-> interests: AI • FinTech • Scalable Systems
-> location: Chandigarh, India
-> portfolio: piyush-aggarwal.vercel.app
-> status: Building futuristic digital products
-```
-
----
-# 🚀 Current Mission
-
-- Building impactful full-stack platforms
-- Exploring AI-powered applications
-- Scaling startup-oriented digital systems
-- Contributing to modern developer ecosystems
-- Creating polished user-focused experiences
-
----
-# 🌐 Connect With Me
-
-<div align="left">
-
-<a href="https://www.linkedin.com/in/piyushaggarwal30" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:aggarwalpiyush630@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://piyush-aggarwal.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<img src="./assets/svg/about.svg" width="100%" />
 
 </div>
 
 ---
-# ⚒️ Tech Arsenal
+<div align="center">
+
+<img src="./assets/svg/achievements.svg" width="100%" />
+
+</div>
+
+---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=3000&color=E2E8F0&vCenter=true&width=480&lines=%E2%9A%A1+%24+cat+tech-stack.md" />
+
+<br><br>
 
 <div align="center">
 
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
-
-<br><br>
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
-
-<br><br>
-
-## Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" />
-
-<br><br>
-
-## Tools & Workflow
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode" />
-
-</div>
-
----
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-### 🌌 SkillMatch
-
-Developer collaboration platform for hackathons, events, and networking.
-
-**Tech Stack:**  
-React • Node.js • MongoDB • TailwindCSS
-
-**Highlights:**  
-- Developer matching ecosystem  
-- Authentication & profiles  
-- Event collaboration system  
-- Modern responsive UI
-
-</td>
-
-<td width="50%">
-
-### 🍔 Tomato Foods
-
-Full-stack food delivery platform with payment integration.
-
-**Tech Stack:**  
-MERN • Stripe • Render • Firebase
-
-**Highlights:**  
-- Real-time cart system  
-- Online payments  
-- Admin dashboard  
-- Fully responsive architecture
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### 🤖 AI Resume Generator
-
-AI-powered platform for generating resumes and cover letters.
-
-**Tech Stack:**  
-React • Node.js • OpenAI API
-
-**Highlights:**  
-- AI-generated content  
-- Resume optimization  
-- Professional templates  
-- Dynamic export system
-
-</td>
-
-<td width="50%">
-
-### 🎯 Face Recognition System
-
-Real-time AI attendance tracking system using computer vision.
-
-**Tech Stack:**  
-Python • OpenCV • Machine Learning
-
-**Highlights:**  
-- Real-time face detection  
-- Automated attendance  
-- Admin dashboard  
-- AI-powered recognition
-
-</td>
-
-</tr>
-</table>
-
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=piyush-0930&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=7C3AED" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyush-0930&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nextjs,nodejs,django,tailwind,mongodb,mysql,firebase,docker,git,vscode,aws,linux" />
 
 </div>
 
@@ -180,15 +45,92 @@ Python • OpenCV • Machine Learning
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=piyush-0930&theme=transparent&hide_border=true&ring=00D9FF&fire=7C3AED&currStreakLabel=00D9FF" />
+<img src="./assets/svg/techstack.svg" width="100%" />
+
+</div>
+
+<details>
+<summary><b>📋 Detailed Skill Breakdown</b> (click to expand)</summary>
+
+<br>
+
+| Category | Technologies |
+|----------|---------------|
+| **Languages** | Python • JavaScript • TypeScript • Java |
+| **Frontend** | React • Next.js • Tailwind CSS • HTML5 |
+| **Backend** | Node.js • Express.js • Django |
+| **Databases** | MongoDB • MySQL • Firebase |
+| **Cloud & DevOps** | AWS • Docker • Git • GitHub |
+| **AI / ML** | AI/ML • HuggingFace • Ollama |
+| **Management** | Program Management • Operations • Community |
+
+</details>
+
+---
+<br>
+
+<div align="center">
+
+<img src="./assets/svg/projects.svg" width="100%" />
+
+</div>
+
+<br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=3000&color=E2E8F0&vCenter=true&width=560&lines=%F0%9F%92%BC+%24+cat+experience.log+--timeline" />
+
+<br><br>
+
+<div align="center">
+
+<img src="./assets/svg/experience.svg" width="100%" />
 
 </div>
 
 ---
-# 🐍 Contribution Snake
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=3000&color=E2E8F0&vCenter=true&width=420&lines=%F0%9F%8C%90+%24+open+--socials" />
+
+<br><br>
+
+<p>
+<a href="https://www.linkedin.com/in/piyushaggarwal30" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:aggarwalpiyush630@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_INSTAGRAM_URL" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/919518618418" target="_blank"><img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="55" /></a>
+</p>
+
+---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=3000&color=E2E8F0&vCenter=true&width=460&lines=%F0%9F%93%8A+%24+analytics+--github" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyush-0930&theme=tokyonight" width="100%" />
+
+<br><br>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/piyush-0930/piyush-0930/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+<img src="https://streak-stats.demolab.com?user=piyush-0930&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=3000&color=22C55E&vCenter=true&width=520&lines=%24+contribution-matrix+--activity" />
+
+<br><br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/piyush-0930/piyush-0930/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-ACTIVE_ENGINEERING-22C55E?style=for-the-badge&labelColor=050816" />
+
+</p>
+
+<img src="./assets/svg/footer.svg" width="100%" />

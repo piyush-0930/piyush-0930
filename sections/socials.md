@@ -1,19 +1,13 @@
-# 🌐 Connect With Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=3000&color=E2E8F0&vCenter=true&width=420&lines=%F0%9F%8C%90+%24+open+--socials" />
 
-<div align="left">
+<br><br>
 
-<a href="https://www.linkedin.com/in/piyushaggarwal30" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:aggarwalpiyush630@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://piyush-aggarwal.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-</div>
+<p>
+<a href="https://www.linkedin.com/in/piyushaggarwal30" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:aggarwalpiyush630@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="YOUR_INSTAGRAM_URL" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://wa.me/919518618418" target="_blank"><img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="55" /></a>
+</p>
 
 ---

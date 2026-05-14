@@ -1,0 +1,91 @@
+<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Background -->
+
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="220">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="100%" stop-color="#0B1120"/>
+    </linearGradient>
+
+    <!-- Main Wave Gradient -->
+
+    <linearGradient id="waveGradient" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#00D9FF"/>
+      <stop offset="50%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <!-- Secondary Wave -->
+
+    <linearGradient id="waveGradient2" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#38BDF8"/>
+      <stop offset="50%" stop-color="#9333EA"/>
+      <stop offset="100%" stop-color="#00D9FF"/>
+    </linearGradient>
+
+    <!-- Glow -->
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+
+  <rect width="1200"
+        height="220"
+        fill="url(#bgGradient)"/>
+
+  <!-- Top Accent Line -->
+
+  <line x1="0"
+        y1="2"
+        x2="1200"
+        y2="2"
+        stroke="url(#waveGradient)"
+        stroke-width="2"
+        opacity="0.7"/>
+
+  <!-- Main Animated Wave -->
+
+  <path
+    fill="url(#waveGradient)"
+    opacity="0.20"
+    filter="url(#glow)">
+
+    <animate attributeName="d"
+      dur="10s"
+      repeatCount="indefinite"
+      values="
+      M0 80 C250 140 420 20 650 80 C850 120 1020 40 1200 100 L1200 220 L0 220 Z;
+      M0 110 C220 30 480 150 700 80 C900 20 1040 140 1200 70 L1200 220 L0 220 Z;
+      M0 80 C250 140 420 20 650 80 C850 120 1020 40 1200 100 L1200 220 L0 220 Z
+      "/>
+
+  </path>
+
+  <!-- Secondary Animated Wave -->
+
+  <path
+    fill="url(#waveGradient2)"
+    opacity="0.10">
+
+    <animate attributeName="d"
+      dur="14s"
+      repeatCount="indefinite"
+      values="
+      M0 120 C240 80 420 160 620 120 C860 70 1040 160 1200 110 L1200 220 L0 220 Z;
+      M0 140 C260 50 450 180 700 110 C920 40 1040 180 1200 90 L1200 220 L0 220 Z;
+      M0 120 C240 80 420 160 620 120 C860 70 1040 160 1200 110 L1200 220 L0 220 Z
+      "/>
+
+  </path>
+
+</svg>

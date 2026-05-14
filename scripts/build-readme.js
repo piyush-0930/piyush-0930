@@ -6,10 +6,11 @@ const sectionsDir = path.join(__dirname, "../sections");
 const sectionOrder = [
   "hero.md",
   "about.md",
-  "mission.md",
-  "socials.md",
+  "achievements.md",
   "techstack.md",
   "projects.md",
+  "experience.md",
+  "socials.md",
   "analytics.md",
   "snake.md",
 ];

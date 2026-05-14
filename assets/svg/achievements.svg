@@ -1,0 +1,226 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+
+<rect width="1200" height="420" fill="#0B1120"/>
+
+<rect x="20" y="10" width="380" height="42" rx="10" fill="#111827"/>
+
+<text x="45"
+      y="38"
+      fill="#E2E8F0"
+      font-size="18"
+      font-family="monospace"
+      font-weight="bold">
+$ neofetch --achievements
+</text>
+
+<rect x="35"
+      y="65"
+      width="1130"
+      height="310"
+      rx="18"
+      fill="#0F172A"
+      stroke="#1E293B"
+      stroke-width="2"/>
+
+<rect x="35"
+      y="65"
+      width="1130"
+      height="48"
+      rx="18"
+      fill="#1E1B4B"/>
+
+<circle cx="65" cy="89" r="8" fill="#FF5F56"/>
+<circle cx="90" cy="89" r="8" fill="#FFBD2E"/>
+<circle cx="115" cy="89" r="8" fill="#27C93F"/>
+
+<text x="600"
+      y="95"
+      fill="#CBD5E1"
+      font-size="17"
+      font-family="monospace"
+      text-anchor="middle">
+piyush-0930@github ~ achievements.sh
+</text>
+
+<text x="60"
+      y="145"
+      fill="#FF5F56"
+      font-size="22"
+      font-family="monospace">
+$ neofetch --achievements
+</text>
+
+<!-- CARD 1 -->
+
+<rect x="60"
+      y="175"
+      width="240"
+      height="120"
+      rx="16"
+      fill="#111827"
+      stroke="#1E293B"/>
+
+<text x="180"
+      y="220"
+      fill="#FF5F56"
+      font-size="42"
+      font-family="monospace"
+      font-weight="bold"
+      text-anchor="middle">
+IIIT
+</text>
+
+<text x="180"
+      y="255"
+      fill="#CBD5E1"
+      font-size="18"
+      font-family="monospace"
+      text-anchor="middle">
+Delhi Finalist
+</text>
+
+<text x="180"
+      y="280"
+      fill="#38BDF8"
+      font-size="14"
+      font-family="monospace"
+      text-anchor="middle">
+National Hackathon
+</text>
+
+<!-- CARD 2 -->
+
+<rect x="330"
+      y="175"
+      width="240"
+      height="120"
+      rx="16"
+      fill="#111827"
+      stroke="#1E293B"/>
+
+<text x="450"
+      y="220"
+      fill="#22C55E"
+      font-size="42"
+      font-family="monospace"
+      font-weight="bold"
+      text-anchor="middle">
+IIT
+</text>
+
+<text x="450"
+      y="255"
+      fill="#CBD5E1"
+      font-size="18"
+      font-family="monospace"
+      text-anchor="middle">
+Mandi Finalist
+</text>
+
+<text x="450"
+      y="280"
+      fill="#38BDF8"
+      font-size="14"
+      font-family="monospace"
+      text-anchor="middle">
+Innovation Challenge
+</text>
+
+<!-- CARD 3 -->
+
+<rect x="600"
+      y="175"
+      width="240"
+      height="120"
+      rx="16"
+      fill="#111827"
+      stroke="#1E293B"/>
+
+<text x="720"
+      y="220"
+      fill="#FACC15"
+      font-size="42"
+      font-family="monospace"
+      font-weight="bold"
+      text-anchor="middle">
+10+
+</text>
+
+<text x="720"
+      y="255"
+      fill="#CBD5E1"
+      font-size="18"
+      font-family="monospace"
+      text-anchor="middle">
+Projects Built
+</text>
+
+<text x="720"
+      y="280"
+      fill="#38BDF8"
+      font-size="14"
+      font-family="monospace"
+      text-anchor="middle">
+Production Systems
+</text>
+
+<!-- CARD 4 -->
+
+<rect x="870"
+      y="175"
+      width="240"
+      height="120"
+      rx="16"
+      fill="#111827"
+      stroke="#1E293B"/>
+
+<text x="990"
+      y="220"
+      fill="#C084FC"
+      font-size="42"
+      font-family="monospace"
+      font-weight="bold"
+      text-anchor="middle">
+20K+
+</text>
+
+<text x="990"
+      y="255"
+      fill="#CBD5E1"
+      font-size="18"
+      font-family="monospace"
+      text-anchor="middle">
+Tech Community
+</text>
+
+<text x="990"
+      y="280"
+      fill="#38BDF8"
+      font-size="14"
+      font-family="monospace"
+      text-anchor="middle">
+Lead Tech Community
+</text>
+
+<!-- FOOTER -->
+
+<circle cx="60" cy="348" r="4" fill="#22C55E"/>
+
+<text x="75"
+      y="353"
+      fill="#22C55E"
+      font-size="15"
+      font-family="monospace">
+Secretary General IT and Tech - ISTE CUSC
+</text>
+
+<text x="1080"
+      y="353"
+      fill="#CBD5E1"
+      font-size="15"
+      font-family="monospace"
+      text-anchor="end">
+Leadership • Innovation • Systems
+</text>
+
+</svg>

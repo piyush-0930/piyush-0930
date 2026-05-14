@@ -1,0 +1,170 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+
+<rect width="1200" height="620" fill="#0B1120"/>
+
+<!-- TOP COMMAND -->
+
+<rect x="20" y="10" width="340" height="42" rx="10" fill="#111827"/>
+
+<text x="45"
+      y="38"
+      fill="#E2E8F0"
+      font-size="18"
+      font-family="monospace"
+      font-weight="bold">
+⚡ $ cat tech-stack.md
+</text>
+
+<!-- TERMINAL -->
+
+<rect x="100"
+      y="120"
+      width="1000"
+      height="420"
+      rx="18"
+      fill="#0F172A"
+      stroke="#1E293B"
+      stroke-width="2"/>
+
+<!-- HEADER -->
+
+<rect x="100"
+      y="120"
+      width="1000"
+      height="50"
+      rx="18"
+      fill="#1E1B4B"/>
+
+<!-- DOTS -->
+
+<circle cx="130" cy="145" r="8" fill="#FF5F56"/>
+<circle cx="155" cy="145" r="8" fill="#FFBD2E"/>
+<circle cx="180" cy="145" r="8" fill="#27C93F"/>
+
+<!-- TITLE -->
+
+<text x="600"
+      y="152"
+      fill="#CBD5E1"
+      font-size="17"
+      font-family="monospace"
+      text-anchor="middle">
+piyush@github ~ skills.sh
+</text>
+
+<!-- COMMAND -->
+
+<text x="125"
+      y="215"
+      fill="#FF5F56"
+      font-size="22"
+      font-family="monospace">
+$ ./skill-proficiency
+</text>
+
+<!-- PYTHON -->
+
+<text x="125"
+      y="260"
+      fill="#FFFFFF"
+      font-size="18"
+      font-family="monospace">
+Python
+</text>
+
+<rect x="125" y="275" width="800" height="14" rx="7" fill="#1E293B"/>
+<rect x="125" y="275" width="720" height="14" rx="7" fill="#F59E0B"/>
+
+<text x="950"
+      y="287"
+      fill="#F59E0B"
+      font-size="16"
+      font-family="monospace">
+90%
+</text>
+
+<!-- JS -->
+
+<text x="125"
+      y="330"
+      fill="#FFFFFF"
+      font-size="18"
+      font-family="monospace">
+TS / JS
+</text>
+
+<rect x="125" y="345" width="800" height="14" rx="7" fill="#1E293B"/>
+<rect x="125" y="345" width="680" height="14" rx="7" fill="#60A5FA"/>
+
+<text x="950"
+      y="357"
+      fill="#60A5FA"
+      font-size="16"
+      font-family="monospace">
+85%
+</text>
+
+<!-- REACT -->
+
+<text x="125"
+      y="400"
+      fill="#FFFFFF"
+      font-size="18"
+      font-family="monospace">
+React / Next.js
+</text>
+
+<rect x="125" y="415" width="800" height="14" rx="7" fill="#1E293B"/>
+<rect x="125" y="415" width="640" height="14" rx="7" fill="#FACC15"/>
+
+<text x="950"
+      y="427"
+      fill="#FACC15"
+      font-size="16"
+      font-family="monospace">
+80%
+</text>
+
+<!-- NODE -->
+
+<text x="125"
+      y="470"
+      fill="#FFFFFF"
+      font-size="18"
+      font-family="monospace">
+Node.js / Express
+</text>
+
+<rect x="125" y="485" width="800" height="14" rx="7" fill="#1E293B"/>
+<rect x="125" y="485" width="620" height="14" rx="7" fill="#22C55E"/>
+
+<text x="950"
+      y="497"
+      fill="#22C55E"
+      font-size="16"
+      font-family="monospace">
+78%
+</text>
+
+<!-- FOOTER -->
+
+<circle cx="125" cy="520" r="4" fill="#22C55E"/>
+
+<text x="140"
+      y="525"
+      fill="#22C55E"
+      font-size="15"
+      font-family="monospace">
+main
+</text>
+
+<text x="1030"
+      y="525"
+      fill="#CBD5E1"
+      font-size="15"
+      font-family="monospace"
+      text-anchor="end">
+4 core stacks
+</text>
+
+</svg>

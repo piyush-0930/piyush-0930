@@ -12,17 +12,6 @@
       <stop offset="1" stop-color="#7C3AED"/>
     </linearGradient>
 
-    <!-- Mountains -->
-    <linearGradient id="mountain1" x1="0" y1="0" x2="0" y2="1">
-      <stop stop-color="#1E1B4B"/>
-      <stop offset="1" stop-color="#0F172A"/>
-    </linearGradient>
-
-    <linearGradient id="mountain2" x1="0" y1="0" x2="0" y2="1">
-      <stop stop-color="#312E81"/>
-      <stop offset="1" stop-color="#111827"/>
-    </linearGradient>
-
     <!-- Blur -->
     <filter id="blur">
       <feGaussianBlur stdDeviation="80"/>
@@ -30,33 +19,36 @@
 
   </defs>
 
-  <!-- Background -->
-  <rect width="1200" height="400" fill="#050816"/>
-
-  <!-- Animated Glow -->
-  <circle cx="950" cy="80" r="180"
+  <!-- Main Glow -->
+  <circle cx="960" cy="70" r="220"
           fill="url(#paint0)"
-          opacity="0.22"
+          opacity="0.18"
           filter="url(#blur)">
+
     <animate attributeName="opacity"
-             values="0.18;0.28;0.18"
-             dur="6s"
+             values="0.14;0.24;0.14"
+             dur="8s"
              repeatCount="indefinite"/>
+
   </circle>
 
   <!-- Accent Glow -->
-  <circle cx="160" cy="250" r="140"
+  <circle cx="180" cy="260" r="160"
           fill="#00D9FF"
           opacity="0.08"
           filter="url(#blur)">
+
     <animate attributeName="opacity"
-             values="0.05;0.12;0.05"
+             values="0.04;0.12;0.04"
              dur="5s"
              repeatCount="indefinite"/>
+
   </circle>
 
-  <!-- Grid -->
+  <!-- Engineering Grid -->
   <g opacity="0.06">
+
+    <!-- Horizontal -->
     <path d="M0 50 H1200" stroke="white"/>
     <path d="M0 100 H1200" stroke="white"/>
     <path d="M0 150 H1200" stroke="white"/>
@@ -65,6 +57,7 @@
     <path d="M0 300 H1200" stroke="white"/>
     <path d="M0 350 H1200" stroke="white"/>
 
+    <!-- Vertical -->
     <path d="M100 0 V400" stroke="white"/>
     <path d="M200 0 V400" stroke="white"/>
     <path d="M300 0 V400" stroke="white"/>
@@ -76,122 +69,161 @@
     <path d="M900 0 V400" stroke="white"/>
     <path d="M1000 0 V400" stroke="white"/>
     <path d="M1100 0 V400" stroke="white"/>
+
   </g>
 
   <!-- Animated Stars -->
-  <circle cx="120" cy="70" r="2" fill="white">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+
+  <circle cx="100" cy="80" r="2" fill="white">
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="3s"
+             repeatCount="indefinite"/>
   </circle>
 
-  <circle cx="320" cy="120" r="2" fill="white">
-    <animate attributeName="opacity" values="1;0.3;1" dur="4s" repeatCount="indefinite"/>
+  <circle cx="280" cy="120" r="1.8" fill="white">
+    <animate attributeName="opacity"
+             values="1;0.3;1"
+             dur="5s"
+             repeatCount="indefinite"/>
   </circle>
 
-  <circle cx="620" cy="80" r="2" fill="white">
-    <animate attributeName="opacity" values="0.3;1;0.3" dur="5s" repeatCount="indefinite"/>
+  <circle cx="520" cy="60" r="2" fill="white">
+    <animate attributeName="opacity"
+             values="0.3;1;0.3"
+             dur="4s"
+             repeatCount="indefinite"/>
   </circle>
 
-  <circle cx="920" cy="140" r="2" fill="white">
-    <animate attributeName="opacity" values="1;0.2;1" dur="6s" repeatCount="indefinite"/>
+  <circle cx="760" cy="110" r="2" fill="white">
+    <animate attributeName="opacity"
+             values="1;0.2;1"
+             dur="6s"
+             repeatCount="indefinite"/>
   </circle>
 
-  <circle cx="1080" cy="60" r="2" fill="white">
-    <animate attributeName="opacity" values="0.2;1;0.2" dur="4s" repeatCount="indefinite"/>
+  <circle cx="1040" cy="70" r="2" fill="white">
+    <animate attributeName="opacity"
+             values="0.2;1;0.2"
+             dur="4s"
+             repeatCount="indefinite"/>
   </circle>
 
-  <circle cx="800" cy="50" r="1.5" fill="white"/>
-  <circle cx="450" cy="90" r="1.5" fill="white"/>
-  <circle cx="1050" cy="180" r="1.5" fill="white"/>
-  <circle cx="560" cy="40" r="1.5" fill="white"/>
-  <circle cx="720" cy="110" r="1.5" fill="white"/>
+  <circle cx="900" cy="180" r="1.5" fill="white"/>
+  <circle cx="420" cy="90" r="1.5" fill="white"/>
+  <circle cx="650" cy="45" r="1.5" fill="white"/>
+  <circle cx="1110" cy="160" r="1.5" fill="white"/>
+  <circle cx="840" cy="55" r="1.5" fill="white"/>
 
-  <!-- Mountains Back -->
-  <path d="M0 320 L180 240 L320 300 L500 220 L720 310 L920 180 L1200 320 V400 H0 Z"
-        fill="url(#mountain1)"
-        opacity="0.75"/>
+  <!-- Main Name -->
 
-  <!-- Mountains Front -->
-  <path d="M0 350 L150 280 L280 330 L430 250 L620 340 L760 260 L950 320 L1200 220 V400 H0 Z"
-        fill="url(#mountain2)"/>
-
-  <!-- Main Heading -->
   <text x="80"
-        y="165"
+        y="205"
         fill="white"
-        font-size="72"
+        font-size="55"
         font-family="Arial"
         font-weight="bold"
         letter-spacing="3">
-    PIYUSH
-  </text>
 
-  <text x="80"
-        y="235"
-        fill="white"
-        font-size="72"
-        font-family="Arial"
-        font-weight="bold"
-        letter-spacing="3">
-    AGGARWAL
+    PIYUSH AGGARWAL
+
   </text>
 
   <!-- Subtitle -->
+
   <text x="85"
-        y="285"
+        y="255"
         fill="#00D9FF"
         font-size="24"
-        font-family="Arial">
-    Full Stack Developer • Tech Enthusiast • Project Manager
+        font-family="monospace"
+        letter-spacing="1">
+
+    TECH ENTHUSIAST • PROJECT MANAGER
+
   </text>
 
-  <!-- Accent Line -->
+  <!-- Status Line -->
+
+  <text x="85"
+        y="300"
+        fill="#22C55E"
+        font-size="16"
+        font-family="monospace">
+
+    ● SYSTEM STATUS : ONLINE
+
+    <animate attributeName="opacity"
+             values="0.7;1;0.7"
+             dur="2s"
+             repeatCount="indefinite"/>
+
+  </text>
+
+  <!-- Accent Divider -->
+
   <rect x="85"
-        y="315"
-        width="450"
-        height="4"
+        y="325"
+        width="520"
+        height="3"
         rx="2"
-        fill="url(#paint0)"/>
+        fill="url(#paint0)">
+
+    <animate attributeName="width"
+             values="300;520;300"
+             dur="6s"
+             repeatCount="indefinite"/>
+
+  </rect>
 
   <!-- Terminal Window -->
+
   <rect x="720"
-        y="200"
-        width="380"
-        height="135"
-        rx="16"
+        y="190"
+        width="390"
+        height="145"
+        rx="18"
         fill="#0B1120"
         stroke="#1E293B"
         stroke-width="2"
-        opacity="0.97"/>
+        opacity="0.98"/>
 
   <!-- Terminal Header -->
+
   <rect x="720"
-        y="200"
-        width="380"
-        height="30"
-        rx="16"
+        y="190"
+        width="390"
+        height="34"
+        rx="18"
         fill="#111827"/>
 
-  <!-- Dots -->
-  <circle cx="742" cy="215" r="5" fill="#EF4444"/>
-  <circle cx="760" cy="215" r="5" fill="#F59E0B"/>
-  <circle cx="778" cy="215" r="5" fill="#22C55E"/>
+  <!-- Terminal Dots -->
+
+  <circle cx="745" cy="207" r="5" fill="#EF4444"/>
+  <circle cx="764" cy="207" r="5" fill="#F59E0B"/>
+  <circle cx="783" cy="207" r="5" fill="#22C55E"/>
 
   <!-- Terminal Title -->
-  <text x="840"
-        y="219"
+
+  <text x="850"
+        y="211"
         fill="#94A3B8"
         font-size="12"
         font-family="monospace">
-    piyush@github:~
+
+    piyush-0930@github:~
+
   </text>
 
-  <!-- Terminal Commands -->
+  <!-- Terminal Content -->
+
   <text x="742"
         y="255"
         fill="#22C55E"
         font-size="16"
         font-family="monospace">
-    > initializing systems...
+
+    > booting engineering systems...
+
   </text>
 
   <text x="742"
@@ -199,7 +231,9 @@
         fill="#38BDF8"
         font-size="16"
         font-family="monospace">
-    > loading projects...
+
+    > loading full-stack modules...
+
   </text>
 
   <text x="742"
@@ -207,23 +241,29 @@
         fill="#A78BFA"
         font-size="16"
         font-family="monospace">
-    > status: online
+
+    > identity confirmed
+
     <tspan fill="white">_</tspan>
 
     <animate attributeName="opacity"
              values="1;0;1"
              dur="1s"
              repeatCount="indefinite"/>
+
   </text>
 
-  <!-- Footer Label -->
+  <!-- Side Label -->
+
   <text x="1180"
         y="340"
-        fill="#94A3B8"
-        font-size="16"
+        fill="#64748B"
+        font-size="15"
         font-family="monospace"
         transform="rotate(-90 1180 340)">
-    BUILD • SCALE • INNOVATE
+
+    BUILD • SCALE • ENGINEER
+
   </text>
 
 </svg>
