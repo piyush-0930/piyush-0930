@@ -2,11 +2,11 @@
 
   <defs>
 
-    <!-- Background -->
+    <!-- Transparent Background -->
 
     <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="220">
-      <stop offset="0%" stop-color="#050816"/>
-      <stop offset="100%" stop-color="#0B1120"/>
+      <stop offset="0%" stop-color="transparent"/>
+      <stop offset="100%" stop-color="transparent"/>
     </linearGradient>
 
     <!-- Main Wave Gradient -->
@@ -37,11 +37,11 @@
 
   </defs>
 
-  <!-- Background -->
+  <!-- Transparent Background -->
 
   <rect width="1200"
         height="220"
-        fill="url(#bgGradient)"/>
+        fill="transparent"/>
 
   <!-- Top Accent Line -->
 

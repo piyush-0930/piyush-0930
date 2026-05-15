@@ -2,13 +2,31 @@
 
 <br><br>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nextjs,nodejs,django,tailwind,mongodb,mysql,firebase,docker,git,vscode,aws,linux" />
-
-</div>
+### Frontend  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 
 <br>
+
+### Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,cpp" />
+
+<br>
+
+### Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+
+<br>
+
+### Cloud • DevOps • Tools  
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,postman,figma" />
+
+<br>
+
+### Payments  
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" height="48" />
+
+<br><br>
 
 <div align="center">
 
@@ -25,10 +43,10 @@
 |----------|---------------|
 | **Languages** | Python • JavaScript • TypeScript • Java |
 | **Frontend** | React • Next.js • Tailwind CSS • HTML5 |
-| **Backend** | Node.js • Express.js • Django |
-| **Databases** | MongoDB • MySQL • Firebase |
+| **Backend** | Node.js • Express.js |
+| **Databases** | MongoDB • MySQL • Firebase • Supabase |
 | **Cloud & DevOps** | AWS • Docker • Git • GitHub |
-| **AI / ML** | AI/ML • HuggingFace • Ollama |
+| **Payments** | Stripe • Razorpay |
 | **Management** | Program Management • Operations • Community |
 
 </details>

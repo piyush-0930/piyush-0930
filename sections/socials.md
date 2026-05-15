@@ -5,8 +5,8 @@
 <p>
 <a href="https://www.linkedin.com/in/piyushaggarwal30" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:aggarwalpiyush630@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="YOUR_INSTAGRAM_URL" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://piyush-aggarwal.vercel.app" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/piyush_aggarwal_09" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="55" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://wa.me/919518618418" target="_blank"><img src="https://img.icons8.com/color/96/whatsapp--v1.png" height="55" /></a>
 </p>
 

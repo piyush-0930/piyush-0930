@@ -36,7 +36,7 @@
       font-size="17"
       font-family="monospace"
       text-anchor="middle">
-piyush@github ~ experience.log
+piyush-0930@github ~ experience.log
 </text>
 
 <!-- COMMAND -->
@@ -60,7 +60,7 @@ $ cat experience.log --timeline
 
 <!-- ROLE 1 -->
 
-<circle cx="105" cy="210" r="13" fill="#FF5F56"/>
+<circle cx="105" cy="210" r="13" fill="#38BDF8"/>
 <circle cx="105" cy="210" r="5" fill="#0F172A"/>
 
 <rect x="145"
@@ -76,15 +76,15 @@ $ cat experience.log --timeline
       width="6"
       height="115"
       rx="4"
-      fill="#FF5F56"/>
+      fill="#38BDF8"/>
 
 <text x="175"
       y="220"
-      fill="#FF5F56"
+      fill="#60A5FA"
       font-size="25"
       font-family="monospace"
       font-weight="bold">
-CU-TBI (Chandigarh University)
+TRINITi Heights, Chandigarh
 </text>
 
 <text x="175"
@@ -92,7 +92,7 @@ CU-TBI (Chandigarh University)
       fill="#38BDF8"
       font-size="18"
       font-family="monospace">
-Web Developer and Growth Operations Executive
+Technology and Management Associate
 </text>
 
 <text x="175"
@@ -100,7 +100,7 @@ Web Developer and Growth Operations Executive
       fill="#CBD5E1"
       font-size="15"
       font-family="monospace">
-Developed scalable startup systems and digital products
+Worked on startup ecosystems, operations, and technical systems
 </text>
 
 <text x="900"
@@ -108,12 +108,12 @@ Developed scalable startup systems and digital products
       fill="#22C55E"
       font-size="16"
       font-family="monospace">
-May 2025 - Present
+Aug 2025 - Jan 2026
 </text>
 
 <!-- ROLE 2 -->
 
-<circle cx="105" cy="360" r="13" fill="#A855F7"/>
+<circle cx="105" cy="360" r="13" fill="#FACC15"/>
 <circle cx="105" cy="360" r="5" fill="#0F172A"/>
 
 <rect x="145"
@@ -129,15 +129,15 @@ May 2025 - Present
       width="6"
       height="115"
       rx="4"
-      fill="#A855F7"/>
+      fill="#FACC15"/>
 
 <text x="175"
       y="370"
-      fill="#C084FC"
+      fill="#FACC15"
       font-size="25"
       font-family="monospace"
       font-weight="bold">
-Reitso
+ISTE CUSC
 </text>
 
 <text x="175"
@@ -145,7 +145,7 @@ Reitso
       fill="#38BDF8"
       font-size="18"
       font-family="monospace">
-Founder and Product Engineer
+Secretary General - IT and Tech
 </text>
 
 <text x="175"
@@ -153,20 +153,20 @@ Founder and Product Engineer
       fill="#CBD5E1"
       font-size="15"
       font-family="monospace">
-Building AI-powered real estate ecosystem platform
+Led technical initiatives and large-scale student operations
 </text>
 
-<text x="930"
+<text x="900"
       y="370"
       fill="#22C55E"
       font-size="16"
       font-family="monospace">
-2025 - Present
+Mar 2025 - Sep 2025
 </text>
 
 <!-- ROLE 3 -->
 
-<circle cx="105" cy="510" r="13" fill="#FACC15"/>
+<circle cx="105" cy="510" r="13" fill="#A855F7"/>
 <circle cx="105" cy="510" r="5" fill="#0F172A"/>
 
 <rect x="145"
@@ -182,15 +182,15 @@ Building AI-powered real estate ecosystem platform
       width="6"
       height="115"
       rx="4"
-      fill="#FACC15"/>
+      fill="#A855F7"/>
 
 <text x="175"
       y="520"
-      fill="#FACC15"
+      fill="#C084FC"
       font-size="25"
       font-family="monospace"
       font-weight="bold">
-DevNovate Technologies
+Internshala
 </text>
 
 <text x="175"
@@ -198,7 +198,7 @@ DevNovate Technologies
       fill="#38BDF8"
       font-size="18"
       font-family="monospace">
-Engineering and Product Operations
+Student Partner
 </text>
 
 <text x="175"
@@ -206,20 +206,20 @@ Engineering and Product Operations
       fill="#CBD5E1"
       font-size="15"
       font-family="monospace">
-Managed engineering systems and startup operations
+Managed outreach campaigns and student community engagement
 </text>
 
-<text x="885"
+<text x="905"
       y="520"
       fill="#22C55E"
       font-size="16"
       font-family="monospace">
-Dec 2024 - May 2025
+Apr 2025 - Jun 2025
 </text>
 
 <!-- ROLE 4 -->
 
-<circle cx="105" cy="660" r="13" fill="#38BDF8"/>
+<circle cx="105" cy="660" r="13" fill="#FF5F56"/>
 <circle cx="105" cy="660" r="5" fill="#0F172A"/>
 
 <rect x="145"
@@ -235,15 +235,15 @@ Dec 2024 - May 2025
       width="6"
       height="115"
       rx="4"
-      fill="#38BDF8"/>
+      fill="#FF5F56"/>
 
 <text x="175"
       y="670"
-      fill="#60A5FA"
+      fill="#FF5F56"
       font-size="25"
       font-family="monospace"
       font-weight="bold">
-Technicia 2025
+ArchFin Professionals
 </text>
 
 <text x="175"
@@ -251,7 +251,7 @@ Technicia 2025
       fill="#38BDF8"
       font-size="18"
       font-family="monospace">
-Secretary General - IT and Tech
+Content Intern
 </text>
 
 <text x="175"
@@ -259,15 +259,15 @@ Secretary General - IT and Tech
       fill="#CBD5E1"
       font-size="15"
       font-family="monospace">
-Leading technical operations and large-scale innovation events
+Worked on content strategy and digital publishing workflows
 </text>
 
-<text x="930"
+<text x="915"
       y="670"
       fill="#22C55E"
       font-size="16"
       font-family="monospace">
-2025 - Present
+Apr 2022 - May 2022
 </text>
 
 <!-- FOOTER -->
@@ -288,7 +288,7 @@ main
       font-size="15"
       font-family="monospace"
       text-anchor="end">
-4 roles • engineering timeline
+professional journey • experience timeline
 </text>
 
 </svg>
