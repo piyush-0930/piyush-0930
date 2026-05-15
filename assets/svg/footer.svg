@@ -1,89 +1,98 @@
-<svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
 
-    <!-- Transparent Background -->
+    <!-- Main Neon Gradient -->
 
-    <linearGradient id="bgGradient" x1="0" y1="0" x2="1200" y2="220">
-      <stop offset="0%" stop-color="transparent"/>
-      <stop offset="100%" stop-color="transparent"/>
-    </linearGradient>
-
-    <!-- Main Wave Gradient -->
-
-    <linearGradient id="waveGradient" x1="0" y1="0" x2="1200" y2="0">
+    <linearGradient id="neonWave" x1="0" y1="0" x2="1200" y2="0">
       <stop offset="0%" stop-color="#00D9FF"/>
-      <stop offset="50%" stop-color="#7C3AED"/>
-      <stop offset="100%" stop-color="#38BDF8"/>
+      <stop offset="25%" stop-color="#38BDF8"/>
+      <stop offset="55%" stop-color="#7C3AED"/>
+      <stop offset="80%" stop-color="#A855F7"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
 
-    <!-- Secondary Wave -->
+    <!-- Secondary Accent -->
 
-    <linearGradient id="waveGradient2" x1="0" y1="0" x2="1200" y2="0">
-      <stop offset="0%" stop-color="#38BDF8"/>
-      <stop offset="50%" stop-color="#9333EA"/>
-      <stop offset="100%" stop-color="#00D9FF"/>
+    <linearGradient id="secondaryWave" x1="0" y1="0" x2="1200" y2="0">
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
     </linearGradient>
 
     <!-- Glow -->
 
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="16" result="blur"/>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="22" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
+    <!-- Blur Background -->
+
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#050816" stop-opacity="0"/>
+    </radialGradient>
+
   </defs>
 
-  <!-- Transparent Background -->
+  <!-- Transparent Base -->
 
-  <rect width="1200"
-        height="220"
-        fill="transparent"/>
+  <rect width="1200" height="260" fill="transparent"/>
+
+  <!-- Background Glow -->
+
+  <ellipse cx="600"
+           cy="160"
+           rx="500"
+           ry="120"
+           fill="url(#bgGlow)"
+           opacity="0.8"/>
 
   <!-- Top Accent Line -->
 
   <line x1="0"
-        y1="2"
+        y1="3"
         x2="1200"
-        y2="2"
-        stroke="url(#waveGradient)"
+        y2="3"
+        stroke="url(#neonWave)"
         stroke-width="2"
-        opacity="0.7"/>
+        opacity="0.9"/>
 
-  <!-- Main Animated Wave -->
+  <!-- Main Wave -->
 
   <path
-    fill="url(#waveGradient)"
-    opacity="0.20"
-    filter="url(#glow)">
+    fill="url(#neonWave)"
+    opacity="0.28"
+    filter="url(#softGlow)">
 
     <animate attributeName="d"
-      dur="10s"
+      dur="5s"
       repeatCount="indefinite"
       values="
-      M0 80 C250 140 420 20 650 80 C850 120 1020 40 1200 100 L1200 220 L0 220 Z;
-      M0 110 C220 30 480 150 700 80 C900 20 1040 140 1200 70 L1200 220 L0 220 Z;
-      M0 80 C250 140 420 20 650 80 C850 120 1020 40 1200 100 L1200 220 L0 220 Z
+      M0 120 C180 190 360 40 560 110 C760 180 940 50 1200 130 L1200 260 L0 260 Z;
+      M0 145 C220 60 420 210 650 120 C900 40 1050 190 1200 90 L1200 260 L0 260 Z;
+      M0 120 C180 190 360 40 560 110 C760 180 940 50 1200 130 L1200 260 L0 260 Z
       "/>
 
   </path>
 
-  <!-- Secondary Animated Wave -->
+  <!-- Secondary Layer -->
 
   <path
-    fill="url(#waveGradient2)"
-    opacity="0.10">
+    fill="url(#secondaryWave)"
+    opacity="0.16">
 
     <animate attributeName="d"
-      dur="14s"
+      dur="7s"
       repeatCount="indefinite"
       values="
-      M0 120 C240 80 420 160 620 120 C860 70 1040 160 1200 110 L1200 220 L0 220 Z;
-      M0 140 C260 50 450 180 700 110 C920 40 1040 180 1200 90 L1200 220 L0 220 Z;
-      M0 120 C240 80 420 160 620 120 C860 70 1040 160 1200 110 L1200 220 L0 220 Z
+      M0 170 C220 100 420 220 660 160 C920 90 1080 200 1200 140 L1200 260 L0 260 Z;
+      M0 190 C260 80 470 240 710 150 C930 70 1090 230 1200 120 L1200 260 L0 260 Z;
+      M0 170 C220 100 420 220 660 160 C920 90 1080 200 1200 140 L1200 260 L0 260 Z
       "/>
 
   </path>
